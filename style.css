@@ -1,0 +1,10 @@
+h1 {text-transform: capitalize;text-align: center; color: red;}
+h5{text-align: center;}
+h2{text-transform: uppercase; color: red;}
+h3{font-family: Arial, Helvetica, sans-serif;font-weight: 700;}
+
+hr{border-top: 2px dashed;}
+h4,p,#indent{text-indent: 3%;}
+.list{text-indent: 1%;}
+span{font-weight: bold;}
+.float{float: right;width: 80%;}
